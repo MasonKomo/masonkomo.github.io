@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [The Fifth Force | Senior Project] (project1)
 <!-- Git Link: Have to clean up project and upload... Currently hosted in Unity Collab -->
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/TFFLogo.png)
 
 ---
 ### [PassKeep | CSCI 325](project2) 
