@@ -41,7 +41,7 @@ Since the theme of the game is based around the fundamental forces of physics, i
 
 The game is split into five separate sections. Each of the first four sections are themed around one of the four fundamental forces of physics (Gravitational, electromagnetic, strong force, and week force). The final section of the game explores what the fifth force of physics might be like and has the player using it to solve the final puzzles of the game!
 
-## 3. Additional Considerations
+## Additional Considerations
 
 This project is still under active development and has been quite the undertaking. I hope to have it completely finished in time to present in the fall of 2021. To see a more detailed look into the design process that I followed, please view the official game design document here: https://www.notion.so/masonbradford/Game-Design-Document-ee9694ded78a4c12a8a0f38d82ea9009
 
