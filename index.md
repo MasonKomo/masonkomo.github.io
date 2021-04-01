@@ -7,17 +7,22 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:mason.c.bradford@gmail.com?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
+
 ### [The Fifth Force | Senior Project] (project1)
+
 <!-- Git Link: Have to clean up project and upload... Currently hosted in Unity Collab -->
 ![Project 1 Thumbnail Name](images/TFFLogo.png)
 
 ---
+
 ### [PassKeep | CSCI 325](project2) 
+
 <!-- Git Link: https://github.com/MasonKomo/PassKeep-Password-Manager -->
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 ### [Rae's Riders | CSCI 325](project3)
+
 <!-- Git Link: https://github.com/MasonKomo/Raes-Riders-Website -->
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
